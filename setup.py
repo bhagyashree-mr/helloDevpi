@@ -1,11 +1,3 @@
-# hello.py
-
-def main():
-    print("Hello, Devpi!")
-
-jenkins@Bhagyashree:/opt/helloDevpi$ cat setup.py
-# setup.py
-
 from setuptools import setup
 
 setup(
